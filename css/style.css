@@ -165,6 +165,7 @@ body {
   opacity: 1;
   background-color: #7e838d;
 }
+
 .page__section::after {
   position: absolute;
   top: 50%;
