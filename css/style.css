@@ -196,6 +196,7 @@ body {
   position: relative;
   padding: 10.5% 17%;
 }
+
 .screen-01__container::after {
   content: "";
   position: absolute;
