@@ -131,6 +131,7 @@ body {
     padding: 0;
   }
 }
+
 .page__section span .bullet__first, .page__section span .bullet__second {
   position: absolute;
   top: 42%;
