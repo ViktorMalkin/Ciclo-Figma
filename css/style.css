@@ -151,6 +151,7 @@ body {
     z-index: 3;
   }
 }
+
 .page__section span .bullet__first:hover, .page__section span .bullet__second:hover {
   background-color: #6A6E77;
 }
