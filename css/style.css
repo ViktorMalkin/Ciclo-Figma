@@ -361,6 +361,7 @@ body {
       -ms-flex: 0 1 50%;
           flex: 0 1 50%;
 }
+
 .screen-02__image img {
   max-width: 100%;
   min-height: 840px;
