@@ -287,6 +287,7 @@ body {
   line-height: 75px;
   color: #1C1F25;
 }
+
 .section-header__title-02:not(:last-child) {
   margin-bottom: 24%;
 }
